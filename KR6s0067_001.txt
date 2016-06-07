@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:29.703171
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 御製釋迦牟尼佛讚
 #+PROPERTY: CBETA_ID G083n2075
 #+PROPERTY: ID KR6s0067
 #+PROPERTY: SOURCE Fojiao Canon Vol. 083, No. 2075
 #+PROPERTY: VOL 083
 #+PROPERTY: BASEEDITION G
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0067_G_000-0007a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0067_G_001-0007a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
-
- 御製釋迦牟尼佛讚¶
+御製釋迦牟尼佛讚¶
 
 #+BEGIN_VERSE
 「　如來勝相徧十方
@@ -74,6 +73,5 @@
 　如是功德不思議
 　庸愚俱至妙菩提
 　隨緣感應無不周
-　願使眾生皆成佛
+　願使眾生皆成佛」
 #+END_VERSE
-」
